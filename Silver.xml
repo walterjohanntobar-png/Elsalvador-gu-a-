@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="ChatGPT EPG">
+  <!-- ===== Channels ===== -->
+  <channel id="canal2.sv">
+    <display-name>Canal 2</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Canal_2_El_Salvador_logo.png"/>
+  </channel>
+  <channel id="canal4.sv">
+    <display-name>Canal 4</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Canal_4_El_Salvador_logo.png"/>
+  </channel>
+  <channel id="canal6.sv">
+    <display-name>Canal 6</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Canal_6_El_Salvador_logo.png"/>
+  </channel>
+  <channel id="canal21.sv">
+    <display-name>Canal 21</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/4/41/Canal_21_El_Salvador_logo.png"/>
+  </channel>
+  <channel id="tcsplus.sv">
+    <display-name>TCS Plus</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/03/TCS_Plus_Logo.png"/>
+  </channel>
+
+  <!-- ===== Day 1: 2026-01-07 ===== -->
+  <programme start="20260107060000 -0600" stop="20260107090000 -0600" channel="canal2.sv">
+    <title>Noticiero Matutino</title>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260107090000 -0600" stop="20260107120000 -0600" channel="canal2.sv">
+    <title>Telenovela Mañana</title>
+    <category>Telenovela</category>
+  </programme>
+  <programme start="20260107120000 -0600" stop="20260107150000 -0600" channel="canal2.sv">
+    <title>Magazine / Entretenimiento</title>
+    <category>Entretenimiento</category>
+  </programme>
+  <programme start="20260107150000 -0600" stop="20260107180000 -0600" channel="canal2.sv">
+    <title>Deportes / Noticias</title>
+    <category>Deportes</category>
+  </programme>
+  <programme start="20260107180000 -0600" stop="20260107210000 -0600" channel="canal2.sv">
+    <title>Noticiero Estelar</title>
+    <category>Noticias</category>
+  </programme>
+  <programme start="20260107210000 -0600" stop="20260107240000 -0600" channel="canal2.sv">
+    <title>Telenovela Noche</title>
+    <category>Telenovela</category>
+  </programme>
+
+  <!-- Repeat similar blocks for Canal 4, 6, 21, TCS Plus -->
+  <programme start="20260107060000 -0600" stop="20260107240000 -0600" channel="canal4.sv">
+    <title>Programación Canal 4</title>
+    <category>General</category>
+  </programme>
+  <programme start="20260107060000 -0600" stop="20260107240000 -0600" channel="canal6.sv">
+    <title>Programación Canal 6</title>
+    <category>General</category>
+  </programme>
+  <programme start="20260107060000 -0600" stop="20260107240000 -0600" channel="canal21.sv">
+    <title>Programación Canal 21</title>
+    <category>General</category>
+  </programme>
+  <programme start="20260107060000 -0600" stop="20260107240000 -0600" channel="tcsplus.sv">
+    <title>Programación TCS Plus</title>
+    <category>General</category>
+  </programme>
+
+  <!-- ===== Day 2: 2026-01-08 ===== -->
+  <programme start="20260108060000 -0600" stop="20260108240000 -0600" channel="canal2.sv">
+    <title>Programación Canal 2</title>
+    <category>General</category>
+  </programme>
+  <programme start="20260108060000 -0600" stop="20260108240000 -0600" channel="canal4.sv">
+    <title>Programación Canal 4</title>
+    <category>General</category>
+  </programme>
+  <programme start="20260108060000 -0600" stop="20260108240000 -0600" channel="canal6.sv">
+    <title>Programación Canal 6</title>
+    <category>General</category>
+  </programme>
+  <programme start="20260108060000 -0600" stop="20260108240000 -0600" channel="canal21.sv">
+    <title>Programación Canal 21</title>
+    <category>General</category>
+  </programme>
+  <programme start="20260108060000 -0600" stop="20260108240000 -0600" channel="tcsplus.sv">
+    <title>Programación TCS Plus</title>
+    <category>General</category>
+  </programme>
+
+  <!-- ===== Day 3: 2026-01-09 ===== -->
+  <programme start="20260109060000 -0600" stop="20260109240000 -0600" channel="canal2.sv">
+    <title>Programación Canal 2</title>
+    <category>General</category>
+  </programme>
+  <programme start="20260109060000 -0600" stop="20260109240000 -0600" channel="canal4.sv">
+    <title>Programación Canal 4</title>
+    <category>General</category>
+  </programme>
+  <programme start="20260109060000 -0600" stop="20260109240000 -0600" channel="canal6.sv">
+    <title>Programación Canal 6</title>
+    <category>General</category>
+  </programme>
+  <programme start="20260109060000 -0600" stop="20260109240000 -0600" channel="canal21.sv">
+    <title>Programación Canal 21</title>
+    <category>General</category>
+  </programme>
+  <programme start="20260109060000 -0600" stop="20260109240000 -0600" channel="tcsplus.sv">
+    <title>Programación TCS Plus</title>
+    <category>General</category>
+  </programme>
+</tv>
